@@ -2,7 +2,7 @@
   "name": "aurbis-theme",
   "displayName": "Aurbis Theme",
   "description": "A theme for VS Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "dara",
   "icon": "images/icon.png",
   "repository": {

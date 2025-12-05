@@ -1,0 +1,33 @@
+{
+  "name": "aurbis-theme",
+  "displayName": "Aurbis Theme",
+  "description": "A theme for VS Code",
+  "version": "0.0.1",
+  "publisher": "dara",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azuradara/aurbis-vscode-theme"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "aurbis",
+    "dara",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aurbis Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aurbis-dark-color-theme.json"
+      }
+    ]
+  }
+}

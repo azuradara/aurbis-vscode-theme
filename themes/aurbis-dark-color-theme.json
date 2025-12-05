@@ -1,8 +1,7 @@
 {
-  "name": "Dara Black",
+  "name": "Aurbis Dark",
   "type": "dark",
   "colors": {
-    // https://code.visualstudio.com/api/references/theme-color
     "focusBorder": "#ffffff1f",
     "foreground": "#dddddd",
     "disabledForeground": "#6c6c6c",
